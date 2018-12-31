@@ -1,0 +1,239 @@
+﻿ROG3,ISO3,ISO2,Country,ROG2,Continent,RegionCode,RegionName, PoplPeoples ,CntPeoples,CntPeoplesUnreached, PoplPeoplesUnreached ,10/40Window,ROL3OfficialLanguage,OfficialLang,RLG3Primary,ReligionPrimary,PercentChristianity,PercentEvangelical
+AF,AFG,AF,Afghanistan,ASI,Asia,5,Central Asia," 36,278,833 ",72,67," 36,260,154 ",Y,pbt,"Pashto, Southern",6,Islam,0.06,0.03
+AL,ALB,AL,Albania,EUR,Europe,9,Eastern Europe and Eurasia," 2,902,100 ",16,3," 40,216 ",Y,aln,"Albanian, Gheg",6,Islam,26.30,0.61
+AG,DZA,DZ,Algeria,AFR,Africa,6,Middle East and North Africa," 41,948,010 ",40,36," 41,916,649 ",Y,arb,"Arabic, Standard",6,Islam,1.48,1.29
+AQ,ASM,AS,American Samoa,SOP,Oceania,1,Australia and Pacific," 55,211 ",9,1, 982 ,N,smo,Samoan,1,Christianity,95.42,24.84
+AN,AND,AD,Andorra,EUR,Europe,10,Western Europe," 76,378 ",10,2," 1,108 ",N,cat,Catalan,1,Christianity,90.60,1.36
+AO,AGO,AO,Angola,AFR,Africa,7,East and Southern Africa," 30,718,245 ",60,1," 363,129 ",N,por,Portuguese,1,Christianity,91.45,24.31
+AV,AIA,AI,Anguilla,NAR,North America,12,North America and Caribbean," 14,519 ",5,,,N,eng,English,1,Christianity,90.58,33.51
+AC,ATG,AG,Antigua and Barbuda,NAR,North America,12,North America and Caribbean," 101,843 ",5,,,N,eng,English,1,Christianity,92.93,24.85
+AR,ARG,AR,Argentina,LAM,South America,11,Latin America," 44,616,922 ",84,2," 184,067 ",N,spa,Spanish,1,Christianity,93.08,11.04
+AM,ARM,AM,Armenia,EUR,Europe,5,Central Asia," 2,888,119 ",16,4," 38,289 ",N,hye,Armenian,1,Christianity,94.51,9.67
+AA,ABW,AW,Aruba,NAR,North America,12,North America and Caribbean," 105,069 ",9,,,N,nld,Dutch,1,Christianity,95.48,9.89
+AS,AUS,AU,Australia,AUS,Australia,1,Australia and Pacific," 24,688,428 ",181,20," 856,340 ",N,eng,English,1,Christianity,65.57,14.46
+AU,AUT,AT,Austria,EUR,Europe,10,Western Europe," 8,708,873 ",44,8," 348,427 ",N,deu,"German, Standard",1,Christianity,82.89,0.60
+AJ,AZE,AZ,Azerbaijan,ASI,Asia,5,Central Asia," 9,904,259 ",38,24," 9,576,829 ",Y,azj,"Azerbaijani, North",6,Islam,2.65,0.25
+BF,BHS,BS,Bahamas,NAR,North America,12,North America and Caribbean," 396,976 ",9,,,N,eng,English,1,Christianity,94.46,39.66
+BA,BHR,BH,Bahrain,ASI,Asia,6,Middle East and North Africa," 1,546,278 ",16,7," 1,200,739 ",Y,arb,"Arabic, Standard",6,Islam,8.29,2.50
+BG,BGD,BD,Bangladesh,ASI,Asia,4,South Asia," 165,615,410 ",326,294," 163,622,740 ",Y,ben,Bengali,6,Islam,0.34,
+BB,BRB,BB,Barbados,NAR,North America,12,North America and Caribbean," 282,353 ",5,1," 3,989 ",N,eng,English,1,Christianity,92.61,33.60
+BO,BLR,BY,Belarus,EUR,Europe,9,Eastern Europe and Eurasia," 9,414,102 ",26,5," 31,100 ",N,bel,Belarusian,1,Christianity,69.40,1.67
+BE,BEL,BE,Belgium,EUR,Europe,10,Western Europe," 11,428,089 ",91,26," 935,446 ",N,vls,Vlaams,1,Christianity,64.26,1.42
+BH,BLZ,BZ,Belize,NAR,North America,11,Latin America," 360,235 ",13,1," 3,399 ",N,eng,English,1,Christianity,86.00,23.39
+BN,BEN,BJ,Benin,AFR,Africa,8,West and Central Africa," 11,453,095 ",63,13," 2,144,183 ",Y,fra,French,1,Christianity,31.57,7.47
+BD,BMU,BM,Bermuda,NAR,North America,12,North America and Caribbean," 59,898 ",7,,,N,eng,English,1,Christianity,91.66,26.31
+BT,BTN,BT,Bhutan,ASI,Asia,4,South Asia," 813,388 ",74,71," 810,228 ",Y,dzo,Dzongkha,2,Buddhism,0.28,
+BL,BOL,BO,Bolivia,LAM,South America,11,Latin America," 11,166,228 ",48,2," 2,826 ",N,spa,Spanish,1,Christianity,92.44,19.34
+BK,BIH,BA,Bosnia-Herzegovina,EUR,Europe,9,Eastern Europe and Eurasia," 3,490,440 ",12,3," 1,637,503 ",N,bos,Bosnian,6,Islam,44.40,0.17
+BC,BWA,BW,Botswana,AFR,Africa,7,East and Southern Africa," 2,270,855 ",46,,,N,eng,English,1,Christianity,65.51,8.26
+BR,BRA,BR,Brazil,LAM,South America,11,Latin America," 210,725,107 ",308,31," 115,216 ",N,por,Portuguese,1,Christianity,89.55,24.56
+IO,IOT,IO,British Indian Ocean Territory,ASI,Asia,4,South Asia," 2,850 ",2,,,N,eng,English,1,Christianity,75.60,32.10
+VI,VGB,VG,British Virgin Islands,NAR,North America,12,North America and Caribbean," 31,282 ",4,,,N,eng,English,1,Christianity,90.66,28.77
+BX,BRN,BN,Brunei,ASI,Asia,2,Southeast Asia," 424,196 ",24,8," 236,964 ",Y,zlm,Malay,6,Islam,11.70,5.29
+BU,BGR,BG,Bulgaria,EUR,Europe,9,Eastern Europe and Eurasia," 6,992,600 ",31,8," 640,021 ",N,bul,Bulgarian,1,Christianity,82.39,1.98
+UV,BFA,BF,Burkina Faso,AFR,Africa,8,West and Central Africa," 19,705,785 ",81,27," 4,966,228 ",Y,fra,French,6,Islam,20.50,10.24
+BY,BDI,BI,Burundi,AFR,Africa,7,East and Southern Africa," 11,162,630 ",12,3," 17,946 ",N,run,Rundi,1,Christianity,92.62,29.84
+CB,KHM,KH,Cambodia,ASI,Asia,2,Southeast Asia," 16,195,247 ",43,31," 16,087,661 ",Y,khm,Khmer,2,Buddhism,3.17,1.77
+CM,CMR,CM,Cameroon,AFR,Africa,8,West and Central Africa," 24,592,477 ",292,17," 3,512,336 ",N,fra,French,1,Christianity,52.97,9.20
+CA,CAN,CA,Canada,NAR,North America,12,North America and Caribbean," 36,805,641 ",274,50," 1,672,344 ",N,eng,English,1,Christianity,73.47,8.02
+CV,CPV,CV,Cape Verde,AFR,Africa,8,West and Central Africa," 551,590 ",5,,,N,por,Portuguese,1,Christianity,94.87,8.78
+CJ,CYM,KY,Cayman Islands,NAR,North America,12,North America and Caribbean," 61,745 ",10,,,N,eng,English,1,Christianity,81.93,21.23
+CT,CAF,CF,Central African Republic,AFR,Africa,8,West and Central Africa," 4,710,191 ",81,7," 459,927 ",N,fra,French,1,Christianity,70.40,31.59
+CD,TCD,TD,Chad,AFR,Africa,8,West and Central Africa," 15,292,561 ",141,77," 8,453,369 ",Y,arb,"Arabic, Standard",6,Islam,26.03,7.57
+CI,CHL,CL,Chile,LAM,South America,11,Latin America," 18,131,255 ",28,3," 23,782 ",N,spa,Spanish,1,Christianity,87.12,23.04
+CH,CHN,CN,China,ASI,Asia,3,Northeast Asia," 1,401,453,510 ",543,444," 146,227,658 ",Y,cmn,"Chinese, Mandarin",7,Non-Religious,9.20,7.53
+HK,HKG,HK,"China, Hong Kong",ASI,Asia,3,Northeast Asia," 7,385,665 ",24,10," 425,118 ",Y,cmn,"Chinese, Mandarin",4,Ethnic Religions,12.50,6.03
+MC,MAC,MO,"China, Macau",ASI,Asia,3,Northeast Asia," 610,417 ",12,5," 554,935 ",Y,yue,"Chinese, Yue",4,Ethnic Religions,5.23,1.78
+KT,CXR,CX,Christmas Island,SOP,Oceania,1,Australia and Pacific," 1,934 ",3,1, 407 ,N,eng,English,2,Buddhism,18.93,3.07
+CK,CCK,CC,Cocos (Keeling) Islands,SOP,Oceania,1,Australia and Pacific, 574 ,2,1, 420 ,N,eng,English,6,Islam,18.81,3.43
+CO,COL,CO,Colombia,LAM,South America,11,Latin America," 49,285,402 ",112,4," 19,646 ",N,spa,Spanish,1,Christianity,94.12,10.65
+CN,COM,KM,Comoros,AFR,Africa,7,East and Southern Africa," 825,094 ",12,8," 820,705 ",N,swb,"Comorian, Maore",6,Islam,0.94,0.28
+CG,COD,CD,"Congo, Democratic Republic of",AFR,Africa,8,West and Central Africa," 83,773,828 ",228,3," 253,584 ",N,fra,French,1,Christianity,92.12,19.22
+CF,COG,CG,"Congo, Republic of the",AFR,Africa,8,West and Central Africa," 5,334,317 ",71,1," 11,596 ",N,fra,French,1,Christianity,88.24,14.82
+CW,COK,CK,Cook Islands,SOP,Oceania,1,Australia and Pacific," 16,622 ",7,,,N,eng,English,1,Christianity,97.66,13.59
+CS,CRI,CR,Costa Rica,NAR,North America,11,Latin America," 4,917,880 ",21,1," 2,536 ",N,spa,Spanish,1,Christianity,95.64,18.35
+IV,CIV,CI,Côte d'Ivoire,AFR,Africa,8,West and Central Africa," 24,850,065 ",109,36," 8,432,012 ",N,fra,French,6,Islam,30.52,9.44
+HR,HRV,HR,Croatia,EUR,Europe,9,Eastern Europe and Eurasia," 4,097,644 ",24,2," 29,559 ",N,hrv,Croatian,1,Christianity,92.61,0.38
+CU,CUB,CU,Cuba,NAR,North America,12,North America and Caribbean," 11,487,633 ",17,2," 35,404 ",N,spa,Spanish,1,Christianity,56.21,11.34
+UC,CUW,CW,Curacao,NAR,North America,12,North America and Caribbean," 160,036 ",16,2, 764 ,N,nld,Dutch,1,Christianity,85.97,6.86
+CY,CYP,CY,Cyprus,EUR,Europe,10,Western Europe," 1,156,592 ",30,5," 232,031 ",N,ell,Greek,1,Christianity,71.91,1.28
+EZ,CZE,CZ,Czechia,EUR,Europe,9,Eastern Europe and Eurasia," 10,550,124 ",38,6," 12,401 ",N,ces,Czech,7,Non-Religious,26.97,0.74
+DA,DNK,DK,Denmark,EUR,Europe,10,Western Europe," 5,740,937 ",85,24," 248,590 ",N,dan,Danish,1,Christianity,82.89,3.62
+DJ,DJI,DJ,Djibouti,AFR,Africa,7,East and Southern Africa," 959,293 ",11,7," 949,421 ",Y,arb,"Arabic, Standard",6,Islam,0.86,0.09
+DO,DMA,DM,Dominica,NAR,North America,12,North America and Caribbean," 67,366 ",7,1, 862 ,N,eng,English,1,Christianity,91.91,17.86
+DR,DOM,DO,Dominican Republic,NAR,North America,12,North America and Caribbean," 10,836,577 ",15,1," 1,689 ",N,spa,Spanish,1,Christianity,93.79,10.84
+TT,TLS,TL,East Timor,ASI,Asia,2,Southeast Asia," 1,302,630 ",23,,,Y,por,Portuguese,1,Christianity,91.39,2.49
+EC,ECU,EC,Ecuador,LAM,South America,11,Latin America," 16,810,330 ",35,1, 615 ,N,spa,Spanish,1,Christianity,93.70,10.57
+EG,EGY,EG,Egypt,AFR,Africa,6,Middle East and North Africa," 99,259,171 ",42,25," 15,490,849 ",Y,arb,"Arabic, Standard",6,Islam,12.66,4.28
+ES,SLV,SV,El Salvador,NAR,North America,11,Latin America," 6,365,814 ",11,1, 620 ,N,spa,Spanish,1,Christianity,94.46,44.90
+EK,GNQ,GQ,Equatorial Guinea,AFR,Africa,8,West and Central Africa," 1,295,848 ",18,2," 27,685 ",N,spa,Spanish,1,Christianity,89.84,4.71
+ER,ERI,ER,Eritrea,AFR,Africa,7,East and Southern Africa," 5,127,899 ",18,10," 2,011,057 ",Y,tir,Tigrigna,6,Islam,51.04,2.65
+EN,EST,EE,Estonia,EUR,Europe,9,Eastern Europe and Eurasia," 1,285,540 ",18,3," 4,533 ",N,est,,7,Non-Religious,48.87,4.45
+ET,ETH,ET,Ethiopia,AFR,Africa,7,East and Southern Africa," 107,374,706 ",113,35," 22,027,070 ",Y,amh,Amharic,1,Christianity,59.74,17.03
+FK,FLK,FK,Falkland Islands,LAM,South America,11,Latin America," 2,752 ",2,,,N,eng,English,1,Christianity,64.12,9.06
+FO,FRO,FO,Faroe Islands,EUR,Europe,10,Western Europe," 48,068 ",3,,,N,dan,Danish,1,Christianity,90.91,32.96
+FJ,FJI,FJ,Fiji,SOP,Oceania,1,Australia and Pacific," 900,538 ",33,1," 4,550 ",N,eng,English,1,Christianity,64.39,26.30
+FI,FIN,FI,Finland,EUR,Europe,10,Western Europe," 5,514,408 ",58,15," 58,642 ",N,fin,Finnish,1,Christianity,81.47,10.37
+FR,FRA,FR,France,EUR,Europe,10,Western Europe," 65,159,520 ",115,37," 4,246,779 ",N,fra,French,1,Christianity,62.34,1.23
+FG,GUF,GF,French Guiana,LAM,South America,11,Latin America," 287,742 ",23,1," 4,315 ",N,fra,French,1,Christianity,81.09,5.55
+FP,PYF,PF,French Polynesia,SOP,Oceania,1,Australia and Pacific," 280,171 ",13,,,N,fra,French,1,Christianity,83.73,6.11
+GB,GAB,GA,Gabon,AFR,Africa,8,West and Central Africa," 2,037,245 ",51,5," 46,350 ",N,fra,French,1,Christianity,75.18,11.93
+GA,GMB,GM,Gambia,AFR,Africa,8,West and Central Africa," 2,128,185 ",30,16," 1,790,326 ",Y,eng,English,6,Islam,3.64,0.88
+GG,GEO,GE,Georgia,EUR,Europe,9,Eastern Europe and Eurasia," 3,846,506 ",39,15," 252,813 ",N,kat,Georgian,1,Christianity,80.65,1.39
+GM,DEU,DE,Germany,EUR,Europe,10,Western Europe," 82,226,255 ",92,27," 3,348,626 ",N,deu,"German, Standard",1,Christianity,64.37,2.13
+GH,GHA,GH,Ghana,AFR,Africa,8,West and Central Africa," 29,389,523 ",111,19," 1,543,795 ",N,eng,English,1,Christianity,62.42,25.89
+GI,GIB,GI,Gibraltar,EUR,Europe,10,Western Europe," 34,393 ",6,3," 3,060 ",N,eng,English,1,Christianity,80.47,2.21
+GR,GRC,GR,Greece,EUR,Europe,9,Eastern Europe and Eurasia," 11,109,544 ",50,10," 256,561 ",N,ell,Greek,1,Christianity,88.33,0.49
+GL,GRL,GL,Greenland,NAR,North America,12,North America and Caribbean," 55,866 ",4,,,N,kal,Greenlandic,1,Christianity,95.32,7.61
+GJ,GRD,GD,Grenada,NAR,North America,12,North America and Caribbean," 104,247 ",6,,,N,eng,English,1,Christianity,92.37,18.82
+GP,GLP,GP,Guadeloupe,NAR,North America,12,North America and Caribbean," 406,758 ",7,,,N,fra,French,1,Christianity,95.21,4.77
+GQ,GUM,GU,Guam,SOP,Oceania,1,Australia and Pacific," 157,244 ",15,1," 2,651 ",N,eng,English,1,Christianity,92.75,15.66
+GT,GTM,GT,Guatemala,NAR,North America,11,Latin America," 17,187,655 ",61,1, 924 ,N,spa,Spanish,1,Christianity,95.53,24.64
+GV,GIN,GN,Guinea,AFR,Africa,8,West and Central Africa," 13,014,529 ",48,30," 11,351,410 ",Y,fra,French,6,Islam,4.17,0.69
+PU,GNB,GW,Guinea-Bissau,AFR,Africa,8,West and Central Africa," 1,854,498 ",35,19," 876,681 ",Y,por,Portuguese,6,Islam,11.77,2.10
+GY,GUY,GY,Guyana,LAM,South America,11,Latin America," 769,398 ",21,1," 3,921 ",N,eng,English,1,Christianity,51.44,15.72
+HA,HTI,HT,Haiti,NAR,North America,12,North America and Caribbean," 11,078,521 ",6,,,N,fra,French,1,Christianity,94.84,17.53
+HO,HND,HN,Honduras,NAR,North America,11,Latin America," 9,369,398 ",22,1," 1,824 ",N,spa,Spanish,1,Christianity,95.86,27.56
+HU,HUN,HU,Hungary,EUR,Europe,9,Eastern Europe and Eurasia," 9,589,959 ",25,4," 77,030 ",N,hun,Hungarian,1,Christianity,86.79,3.03
+IC,ISL,IS,Iceland,EUR,Europe,10,Western Europe," 327,009 ",12,2," 1,127 ",N,isl,Icelandic,1,Christianity,90.28,4.44
+IN,IND,IN,India,ASI,Asia,4,South Asia," 1,347,829,801 ",2554,2289," 1,274,691,711 ",Y,hin,Hindi,5,Hinduism,2.09,
+ID,IDN,ID,Indonesia,ASI,Asia,2,Southeast Asia," 265,386,196 ",785,235," 165,522,216 ",Y,ind,Indonesian,6,Islam,12.71,3.18
+IR,IRN,IR,Iran,ASI,Asia,5,Central Asia," 81,940,131 ",95,85," 81,619,097 ",Y,pes,"Persian, Iranian",6,Islam,1.34,0.94
+IZ,IRQ,IQ,Iraq,ASI,Asia,6,Middle East and North Africa," 38,797,313 ",35,25," 38,011,381 ",Y,arb,"Arabic, Standard",6,Islam,1.35,0.20
+EI,IRL,IE,Ireland,EUR,Europe,10,Western Europe," 4,753,525 ",45,5," 45,152 ",N,eng,English,1,Christianity,91.42,1.56
+IM,IMN,IM,Isle of Man,EUR,Europe,10,Western Europe," 82,374 ",4,,,N,eng,English,1,Christianity,65.06,8.47
+IS,ISR,IL,Israel,ASI,Asia,6,Middle East and North Africa," 8,393,859 ",49,40," 8,309,771 ",Y,heb,Hebrew,4,Ethnic Religions,1.47,0.42
+IT,ITA,IT,Italy,EUR,Europe,10,Western Europe," 59,234,741 ",105,23," 2,050,839 ",N,ita,Italian,1,Christianity,81.33,1.46
+JM,JAM,JM,Jamaica,NAR,North America,12,North America and Caribbean," 2,883,932 ",9,,,N,eng,English,1,Christianity,81.36,29.75
+JA,JPN,JP,Japan,ASI,Asia,3,Northeast Asia," 127,054,264 ",36,23," 124,296,384 ",Y,jpn,Japanese,2,Buddhism,2.23,0.58
+JO,JOR,JO,Jordan,ASI,Asia,6,Middle East and North Africa," 9,825,163 ",20,13," 9,155,751 ",Y,arb,"Arabic, Standard",6,Islam,2.28,0.27
+KZ,KAZ,KZ,Kazakhstan,ASI,Asia,5,Central Asia," 18,297,835 ",66,31," 13,289,990 ",Y,kaz,Kazakh,6,Islam,15.28,0.58
+KE,KEN,KE,Kenya,AFR,Africa,7,East and Southern Africa," 50,852,115 ",110,33," 5,491,120 ",N,eng,English,1,Christianity,78.03,47.57
+KR,KIR,KI,Kiribati (Gilbert),SOP,Oceania,1,Australia and Pacific," 114,617 ",5,,,N,eng,English,1,Christianity,98.41,8.48
+KN,PRK,KP,"Korea, North",ASI,Asia,3,Northeast Asia," 25,487,114 ",5,2," 25,300,394 ",Y,kor,Korean,7,Non-Religious,1.66,1.57
+KS,KOR,KR,"Korea, South",ASI,Asia,3,Northeast Asia," 51,086,247 ",23,11," 441,669 ",N,kor,Korean,7,Non-Religious,30.10,16.36
+KV,XKV,KV,Kosovo,EUR,Europe,9,Eastern Europe and Eurasia," 1,843,235 ",10,5," 1,703,827 ",N,aln,"Albanian, Gheg",6,Islam,7.01,0.21
+KU,KWT,KW,Kuwait,ASI,Asia,6,Middle East and North Africa," 4,128,309 ",28,13," 3,127,908 ",Y,arb,"Arabic, Standard",6,Islam,10.07,1.50
+KG,KGZ,KG,Kyrgyzstan,ASI,Asia,5,Central Asia," 6,066,146 ",41,26," 5,479,038 ",Y,kir,Kyrgyz,6,Islam,6.51,0.81
+LA,LAO,LA,Laos,ASI,Asia,2,Southeast Asia," 6,895,193 ",132,112," 5,514,304 ",Y,lao,Lao,2,Buddhism,3.50,2.37
+LG,LVA,LV,Latvia,EUR,Europe,9,Eastern Europe and Eurasia," 1,912,990 ",21,4," 10,595 ",N,lvs,"Latvian, Standard",1,Christianity,59.65,7.68
+LE,LBN,LB,Lebanon,ASI,Asia,6,Middle East and North Africa," 6,058,042 ",26,8," 877,801 ",Y,arb,"Arabic, Standard",6,Islam,31.80,0.63
+LT,LSO,LS,Lesotho,AFR,Africa,7,East and Southern Africa," 2,236,364 ",10,,,N,eng,English,1,Christianity,92.80,13.33
+LI,LBR,LR,Liberia,AFR,Africa,8,West and Central Africa," 4,803,911 ",39,5," 525,896 ",N,eng,English,4,Ethnic Religions,39.93,12.57
+LY,LBY,LY,Libya,AFR,Africa,6,Middle East and North Africa," 6,408,524 ",42,29," 5,777,215 ",Y,arb,"Arabic, Standard",6,Islam,2.18,0.12
+LS,LIE,LI,Liechtenstein,EUR,Europe,10,Western Europe," 37,760 ",8,1," 1,011 ",N,deu,"German, Standard",1,Christianity,78.17,0.56
+LH,LTU,LT,Lithuania,EUR,Europe,9,Eastern Europe and Eurasia," 2,847,103 ",21,6," 8,038 ",N,lit,Lithuanian,1,Christianity,84.69,1.41
+LU,LUX,LU,Luxembourg,EUR,Europe,10,Western Europe," 552,656 ",20,3," 2,643 ",N,ltz,Luxembourgish,1,Christianity,80.29,1.00
+MK,MKD,MK,Macedonia,EUR,Europe,9,Eastern Europe and Eurasia," 2,076,483 ",22,9," 640,313 ",N,mkd,Macedonian,1,Christianity,61.99,0.16
+MA,MDG,MG,Madagascar,AFR,Africa,7,East and Southern Africa," 26,175,821 ",40,10," 226,028 ",N,plt,"Malagasy, Plateau",1,Christianity,49.73,6.10
+MI,MWI,MW,Malawi,AFR,Africa,7,East and Southern Africa," 19,089,550 ",26,4," 2,080,678 ",N,eng,English,1,Christianity,75.68,17.00
+MY,MYS,MY,Malaysia,ASI,Asia,2,Southeast Asia," 31,981,052 ",183,79," 16,479,707 ",Y,zlm,Malay,6,Islam,8.91,3.69
+MV,MDV,MV,Maldives,ASI,Asia,4,South Asia," 437,804 ",4,4," 437,804 ",Y,div,Maldivian,6,Islam,0.03,0.01
+ML,MLI,ML,Mali,AFR,Africa,8,West and Central Africa," 19,036,981 ",74,45," 17,435,609 ",Y,fra,French,6,Islam,2.77,0.66
+MT,MLT,MT,Malta,EUR,Europe,10,Western Europe," 414,198 ",10,3," 1,899 ",N,mlt,Maltese,1,Christianity,96.56,1.54
+RM,MHL,MH,Marshall Islands,SOP,Oceania,1,Australia and Pacific," 51,170 ",6,1, 386 ,N,eng,English,1,Christianity,95.23,53.00
+MB,MTQ,MQ,Martinique,NAR,North America,12,North America and Caribbean," 372,559 ",7,,,N,fra,French,1,Christianity,94.86,6.90
+MR,MRT,MR,Mauritania,AFR,Africa,8,West and Central Africa," 4,510,057 ",19,15," 4,494,203 ",Y,arb,"Arabic, Standard",6,Islam,0.30,0.13
+MP,MUS,MU,Mauritius,AFR,Africa,7,East and Southern Africa," 1,230,009 ",18,7," 100,604 ",N,eng,English,5,Hinduism,32.62,9.78
+MF,MYT,YT,Mayotte,AFR,Africa,7,East and Southern Africa," 251,626 ",8,6," 248,003 ",N,fra,French,6,Islam,1.63,0.09
+MX,MEX,MX,Mexico,NAR,North America,11,Latin America," 130,074,779 ",330,3," 144,263 ",N,spa,Spanish,1,Christianity,94.77,10.32
+FM,FSM,FM,"Micronesia, Federated States",SOP,Oceania,1,Australia and Pacific," 103,533 ",25,1, 700 ,N,eng,English,1,Christianity,95.58,22.76
+MD,MDA,MD,Moldova,EUR,Europe,9,Eastern Europe and Eurasia," 3,966,724 ",25,7," 14,386 ",N,ron,Romanian,1,Christianity,75.60,4.67
+MN,MCO,MC,Monaco,EUR,Europe,10,Western Europe," 37,685 ",14,1, 668 ,N,fra,French,1,Christianity,82.57,1.27
+MG,MNG,MN,Mongolia,ASI,Asia,3,Northeast Asia," 3,103,973 ",28,23," 3,046,925 ",Y,khk,"Mongolian, Halh",2,Buddhism,2.33,1.72
+MJ,MNE,ME,Montenegro,EUR,Europe,9,Eastern Europe and Eurasia," 600,371 ",16,3," 55,221 ",N,srp,Serbian,1,Christianity,74.25,0.26
+MH,MSR,MS,Montserrat,NAR,North America,12,North America and Caribbean," 5,043 ",2,,,N,eng,English,1,Christianity,94.94,27.46
+MO,MAR,MA,Morocco,AFR,Africa,6,Middle East and North Africa," 36,102,854 ",31,27," 36,089,194 ",Y,arb,"Arabic, Standard",6,Islam,0.19,0.10
+MZ,MOZ,MZ,Mozambique,AFR,Africa,7,East and Southern Africa," 30,453,923 ",61,9," 1,664,917 ",N,por,Portuguese,1,Christianity,52.79,13.34
+BM,MMR,MM,Myanmar (Burma),ASI,Asia,2,Southeast Asia," 53,757,100 ",147,50," 44,985,654 ",Y,mya,Burmese,2,Buddhism,7.96,4.66
+WA,NAM,NA,Namibia,AFR,Africa,7,East and Southern Africa," 2,558,052 ",32,,,N,eng,English,1,Christianity,89.79,13.77
+NR,NRU,NR,Nauru,SOP,Oceania,1,Australia and Pacific," 10,513 ",7,,,N,eng,English,1,Christianity,85.66,12.60
+NP,NPL,NP,Nepal,ASI,Asia,4,South Asia," 29,496,002 ",274,266," 28,640,152 ",Y,npi,Nepali,5,Hinduism,1.19,
+NL,NLD,NL,Netherlands,EUR,Europe,10,Western Europe," 16,981,968 ",101,21," 886,504 ",N,nld,Dutch,7,Non-Religious,47.20,4.24
+NC,NCL,NC,New Caledonia,SOP,Oceania,1,Australia and Pacific," 273,590 ",44,,,N,fra,French,1,Christianity,79.58,6.18
+NZ,NZL,NZ,New Zealand,SOP,Oceania,1,Australia and Pacific," 4,696,160 ",88,25," 286,244 ",N,eng,English,1,Christianity,52.63,18.56
+NU,NIC,NI,Nicaragua,NAR,North America,11,Latin America," 6,224,910 ",18,,,N,spa,Spanish,1,Christianity,96.26,42.97
+NG,NER,NE,Niger,AFR,Africa,8,West and Central Africa," 22,253,526 ",37,29," 21,859,699 ",Y,fra,French,6,Islam,1.51,0.92
+NI,NGA,NG,Nigeria,AFR,Africa,8,West and Central Africa," 195,652,488 ",542,89," 63,820,227 ",Y,eng,English,1,Christianity,50.64,25.54
+NE,NIU,NU,Niue,SOP,Oceania,1,Australia and Pacific," 1,543 ",2,,,N,eng,English,1,Christianity,95.89,5.43
+NF,NFK,NF,Norfolk Island,SOP,Oceania,1,Australia and Pacific," 1,615 ",3,,,N,eng,English,1,Christianity,72.27,20.43
+CQ,MNP,MP,Northern Mariana Islands,SOP,Oceania,1,Australia and Pacific," 52,707 ",11,1, 869 ,N,eng,English,1,Christianity,74.96,16.82
+NO,NOR,NO,Norway,EUR,Europe,10,Western Europe," 5,291,297 ",53,12," 221,125 ",N,nor,Norwegian,1,Christianity,88.54,8.13
+MU,OMN,OM,Oman,ASI,Asia,6,Middle East and North Africa," 4,772,276 ",34,26," 4,497,870 ",Y,arb,"Arabic, Standard",6,Islam,2.71,0.80
+PK,PAK,PK,Pakistan,ASI,Asia,4,South Asia," 199,926,353 ",422,414," 198,454,653 ",Y,urd,Urdu,6,Islam,0.71,
+PS,PLW,PW,Palau,SOP,Oceania,1,Australia and Pacific," 21,326 ",6,,,N,eng,English,1,Christianity,95.51,21.96
+PM,PAN,PA,Panama,NAR,North America,11,Latin America," 4,157,678 ",30,2," 12,455 ",N,spa,Spanish,1,Christianity,88.18,21.58
+PP,PNG,PG,Papua New Guinea,AUS,Australia,1,Australia and Pacific," 8,332,453 ",886,1," 1,036 ",N,eng,English,1,Christianity,95.86,22.80
+PA,PRY,PY,Paraguay,LAM,South America,11,Latin America," 6,869,812 ",41,2," 16,706 ",N,spa,Spanish,1,Christianity,95.39,8.08
+PE,PER,PE,Peru,LAM,South America,11,Latin America," 32,501,838 ",104,9," 167,326 ",N,spa,Spanish,1,Christianity,94.56,14.41
+RP,PHL,PH,Philippines,ASI,Asia,2,Southeast Asia," 106,356,453 ",200,30," 5,275,376 ",N,tgl,Tagalog,1,Christianity,90.97,13.93
+PC,PCN,PN,Pitcairn Islands,SOP,Oceania,1,Australia and Pacific, 48 ,1,,,N,eng,English,1,Christianity,96.00,10.00
+PL,POL,PL,Poland,EUR,Europe,9,Eastern Europe and Eurasia," 38,000,934 ",32,5," 11,997 ",N,pol,Polish,1,Christianity,89.58,0.31
+PO,PRT,PT,Portugal,EUR,Europe,10,Western Europe," 10,210,981 ",42,6," 108,217 ",N,por,Portuguese,1,Christianity,93.35,3.36
+RQ,PRI,PR,Puerto Rico,NAR,North America,12,North America and Caribbean," 3,622,360 ",13,1," 1,480 ",N,spa,Spanish,1,Christianity,94.56,32.67
+QA,QAT,QA,Qatar,ASI,Asia,6,Middle East and North Africa," 2,565,487 ",24,13," 2,234,411 ",Y,arb,"Arabic, Standard",6,Islam,6.29,0.85
+RE,REU,RE,Reunion,AFR,Africa,7,East and Southern Africa," 872,673 ",19,7," 56,537 ",N,fra,French,1,Christianity,85.55,6.80
+RO,ROU,RO,Romania,EUR,Europe,9,Eastern Europe and Eurasia," 19,521,337 ",33,7," 71,599 ",N,ron,Romanian,1,Christianity,93.69,6.34
+RS,RUS,RU,Russia,ASI,Asia,9,Eastern Europe and Eurasia," 142,657,014 ",180,117," 15,472,629 ",N,rus,Russian,1,Christianity,57.66,1.46
+RW,RWA,RW,Rwanda,AFR,Africa,7,East and Southern Africa," 12,382,808 ",12,3," 21,495 ",N,kin,Kinyarwanda,1,Christianity,88.95,26.24
+SH,SHN,SH,Saint Helena,AFR,Africa,7,East and Southern Africa," 3,962 ",1,,,N,eng,English,1,Christianity,94.99,8.80
+SC,KNA,KN,Saint Kitts and Nevis,NAR,North America,12,North America and Caribbean," 55,431 ",4,,,N,eng,English,1,Christianity,92.53,22.01
+ST,LCA,LC,Saint Lucia,NAR,North America,12,North America and Caribbean," 175,964 ",5,,,N,eng,English,1,Christianity,94.89,18.28
+SB,SPM,PM,Saint Pierre and Miquelon,NAR,North America,12,North America and Caribbean," 6,130 ",2,,,N,fra,French,1,Christianity,96.49,0.62
+WS,WSM,WS,Samoa,SOP,Oceania,1,Australia and Pacific," 194,574 ",5,,,N,smo,Samoan,1,Christianity,96.17,18.57
+SM,SMR,SM,San Marino,EUR,Europe,10,Western Europe," 33,377 ",1,,,N,ita,Italian,1,Christianity,84.11,0.07
+TP,STP,TP,São Tomé and Príncipe,AFR,Africa,8,West and Central Africa," 205,336 ",6,,,N,por,Portuguese,1,Christianity,85.69,5.88
+SA,SAU,SA,Saudi Arabia,ASI,Asia,6,Middle East and North Africa," 33,461,416 ",43,28," 30,370,469 ",Y,arb,"Arabic, Standard",6,Islam,4.34,0.56
+SG,SEN,SN,Senegal,AFR,Africa,8,West and Central Africa," 16,228,759 ",56,26," 13,191,233 ",Y,fra,French,6,Islam,4.48,0.17
+RI,SRB,RS,Serbia,EUR,Europe,9,Eastern Europe and Eurasia," 6,822,007 ",35,6," 116,419 ",N,srp,Serbian,1,Christianity,79.21,0.72
+SE,SYC,SC,Seychelles,AFR,Africa,7,East and Southern Africa," 92,461 ",5,,,N,crs,Seychelles Creole French,1,Christianity,96.18,6.96
+SL,SLE,SL,Sierra Leone,AFR,Africa,8,West and Central Africa," 7,682,704 ",30,11," 1,326,327 ",N,eng,English,6,Islam,13.27,4.97
+SN,SGP,SG,Singapore,ASI,Asia,2,Southeast Asia," 5,756,568 ",49,19," 861,464 ",N,cmn,"Chinese, Mandarin",2,Buddhism,13.26,7.37
+NN,SXM,SX,Sint Maarten,NAR,North America,12,North America and Caribbean," 40,343 ",9,,,N,eng,English,1,Christianity,88.61,7.88
+LO,SVK,SK,Slovakia,EUR,Europe,9,Eastern Europe and Eurasia," 5,393,401 ",20,1," 2,605 ",N,slk,Slovak,1,Christianity,92.78,1.42
+SI,SVN,SI,Slovenia,EUR,Europe,9,Eastern Europe and Eurasia," 2,057,374 ",16,1," 88,046 ",N,slv,Slovene,1,Christianity,54.06,0.21
+BP,SLB,SB,Solomon Islands,SOP,Oceania,1,Australia and Pacific," 610,182 ",74,,,N,eng,English,1,Christianity,96.10,31.20
+SO,SOM,SO,Somalia,AFR,Africa,7,East and Southern Africa," 15,065,395 ",22,20," 15,057,351 ",Y,som,Somali,6,Islam,0.28,0.01
+SF,ZAF,ZA,South Africa,AFR,Africa,7,East and Southern Africa," 57,295,550 ",65,8," 955,837 ",N,eng,English,1,Christianity,77.48,21.13
+OD,SSD,SS,South Sudan,AFR,Africa,7,East and Southern Africa," 12,795,068 ",77,7," 608,223 ",N,eng,English,1,Christianity,57.68,11.30
+SP,ESP,ES,Spain,EUR,Europe,10,Western Europe," 46,320,057 ",106,16," 1,001,071 ",N,spa,Spanish,1,Christianity,77.55,1.60
+CE,LKA,LK,Sri Lanka,ASI,Asia,4,South Asia," 20,831,516 ",166,70," 2,975,856 ",Y,sin,Sinhala,2,Buddhism,7.60,
+VC,VCT,VC,St Vincent and Grenadines,NAR,North America,12,North America and Caribbean," 106,567 ",8,,,N,eng,English,1,Christianity,88.78,41.03
+SU,SDN,SD,Sudan,AFR,Africa,7,East and Southern Africa," 41,393,420 ",162,130," 23,043,557 ",Y,arb,"Arabic, Standard",6,Islam,5.04,0.38
+NS,SUR,SR,Suriname,LAM,South America,11,Latin America," 534,372 ",24,2," 13,452 ",N,nld,Dutch,1,Christianity,46.98,17.62
+SV,SJM,SJ,Svalbard,EUR,Europe,10,Western Europe," 2,642 ",2,,,N,nor,Norwegian,1,Christianity,90.99,6.68
+WZ,SWZ,SZ,Swaziland,AFR,Africa,7,East and Southern Africa," 1,329,189 ",10,1, 803 ,N,ssw,Swati,1,Christianity,84.06,20.80
+SW,SWE,SE,Sweden,EUR,Europe,10,Western Europe," 9,931,082 ",88,21," 386,049 ",N,swe,Swedish,1,Christianity,55.68,5.79
+SZ,CHE,CH,Switzerland,EUR,Europe,10,Western Europe," 8,472,866 ",40,8," 222,701 ",N,gsw,"German, Swiss",1,Christianity,76.55,3.95
+SY,SYR,SY,Syria,ASI,Asia,6,Middle East and North Africa," 18,197,880 ",36,17," 5,779,349 ",Y,arb,"Arabic, Standard",6,Islam,5.72,0.19
+TW,TWN,TW,Taiwan,ASI,Asia,3,Northeast Asia," 23,648,674 ",35,9," 4,429,487 ",Y,cmn,"Chinese, Mandarin",4,Ethnic Religions,5.96,3.30
+TI,TJK,TJ,Tajikistan,ASI,Asia,5,Central Asia," 9,062,469 ",41,24," 8,964,329 ",Y,tgk,Tajik,6,Islam,1.00,0.12
+TZ,TZA,TZ,Tanzania,AFR,Africa,7,East and Southern Africa," 59,032,009 ",154,30," 5,706,720 ",N,swh,Swahili,1,Christianity,51.65,11.11
+TH,THA,TH,Thailand,ASI,Asia,2,Southeast Asia," 69,037,699 ",114,80," 60,943,420 ",Y,tha,Thai,2,Buddhism,1.26,0.63
+TO,TGO,TG,Togo,AFR,Africa,8,West and Central Africa," 7,942,967 ",56,7," 320,772 ",N,fra,French,1,Christianity,45.31,10.99
+TL,TKL,TK,Tokelau,SOP,Oceania,1,Australia and Pacific," 1,268 ",1,,,N,tkl,Tokelauan,1,Christianity,100.00,3.40
+TN,TON,TO,Tonga,SOP,Oceania,1,Australia and Pacific," 105,691 ",5,,,N,ton,Tongan,1,Christianity,95.87,15.69
+TD,TTO,TT,Trinidad and Tobago,NAR,North America,12,North America and Caribbean," 1,362,215 ",15,1, 652 ,N,eng,English,1,Christianity,66.12,23.44
+TS,TUN,TN,Tunisia,AFR,Africa,6,Middle East and North Africa," 11,631,663 ",14,12," 11,543,535 ",Y,arb,"Arabic, Standard",6,Islam,0.42,0.03
+TU,TUR,TR,Turkey,ASI,Asia,5,Central Asia," 81,863,602 ",68,45," 81,090,574 ",Y,tur,Turkish,6,Islam,0.66,0.04
+TX,TKM,TM,Turkmenistan,ASI,Asia,5,Central Asia," 5,796,933 ",38,21," 5,429,472 ",Y,tuk,Turkmen,6,Islam,4.44,0.10
+TK,TCA,TC,Turks and Caicos Islands,NAR,North America,12,North America and Caribbean," 35,023 ",4,,,N,eng,English,1,Christianity,90.67,31.96
+TV,TUV,TV,Tuvalu,SOP,Oceania,1,Australia and Pacific," 10,754 ",2,,,N,tvl,Tuvaluan,1,Christianity,98.00,22.83
+UG,UGA,UG,Uganda,AFR,Africa,7,East and Southern Africa," 44,234,744 ",67,5," 1,107,636 ",N,eng,English,1,Christianity,83.51,33.85
+UP,UKR,UA,Ukraine,EUR,Europe,9,Eastern Europe and Eurasia," 43,942,853 ",78,26," 455,020 ",N,ukr,Ukrainian,1,Christianity,72.97,3.62
+AE,ARE,AE,United Arab Emirates,ASI,Asia,6,Middle East and North Africa," 10,375,659 ",32,27," 8,885,419 ",Y,arb,"Arabic, Standard",6,Islam,8.17,1.38
+UK,GBR,GB,United Kingdom,EUR,Europe,10,Western Europe," 66,468,577 ",105,32," 5,037,394 ",N,eng,English,1,Christianity,57.00,7.89
+US,USA,US,United States,NAR,North America,12,North America and Caribbean," 325,627,248 ",488,84," 10,777,424 ",N,eng,English,1,Christianity,77.31,26.40
+UY,URY,UY,Uruguay,LAM,South America,11,Latin America," 3,445,088 ",35,1," 17,042 ",N,spa,Spanish,1,Christianity,66.76,7.29
+UZ,UZB,UZ,Uzbekistan,ASI,Asia,5,Central Asia," 32,301,826 ",61,34," 30,134,252 ",Y,uzn,"Uzbek, Northern",6,Islam,4.39,0.24
+NH,VUT,VU,Vanuatu,SOP,Oceania,1,Australia and Pacific," 280,001 ",111,,,N,bis,Bislama,1,Christianity,91.83,41.28
+VT,VAT,VA,Vatican City,EUR,Europe,10,Western Europe, 798 ,1,,,N,lat,Latin,1,Christianity,100.00,2.50
+VE,VEN,VE,Venezuela,LAM,South America,11,Latin America," 32,310,531 ",66,3," 39,918 ",N,spa,Spanish,1,Christianity,82.56,12.19
+VM,VNM,VN,Vietnam,ASI,Asia,2,Southeast Asia," 96,418,609 ",118,67," 8,614,631 ",Y,vie,Vietnamese,2,Buddhism,10.14,2.39
+VQ,VIR,VI,Virgin Islands (U.S.),NAR,North America,12,North America and Caribbean," 103,476 ",7,,,N,eng,English,1,Christianity,94.22,24.37
+WF,WLF,WF,Wallis and Futuna Islands,SOP,Oceania,1,Australia and Pacific," 11,715 ",3,,,N,fra,French,1,Christianity,98.48,1.75
+WE,PSE,PS,West Bank / Gaza,ASI,Asia,6,Middle East and North Africa," 5,011,960 ",20,8," 4,969,516 ",Y,ajp,"Arabic, South Levantine Spoken",6,Islam,1.25,0.07
+WI,ESH,EH,Western Sahara,AFR,Africa,6,Middle East and North Africa," 561,935 ",10,10," 561,935 ",Y,ary,"Arabic, Moroccan Spoken",6,Islam,0.03,0.00
+YM,YEM,YE,Yemen,ASI,Asia,6,Middle East and North Africa," 28,759,437 ",29,20," 28,648,608 ",Y,arb,"Arabic, Standard",6,Islam,0.22,0.03
+ZA,ZMB,ZM,Zambia,AFR,Africa,7,East and Southern Africa," 17,537,015 ",73,4," 93,178 ",N,eng,English,1,Christianity,86.98,25.15
+ZI,ZWE,ZW,Zimbabwe,AFR,Africa,7,East and Southern Africa," 16,845,357 ",41,2," 25,842 ",N,eng,English,1,Christianity,76.65,25.23
