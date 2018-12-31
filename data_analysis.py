@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from itertools import count
-
+import matplotlib.font_manager
 
 # def selectPG(data, peopleGroup):
 #     # Output Features:
@@ -40,11 +40,10 @@ def normalize(df, feature_name):
     return result
 
 
-data_path = 'D:\\Hack4Missions\\Urbana2018-Dataviz-Challenge\\outputs\\data\\merged_people_groups_20181203-climate_vuln.csv'
-# data_path = 'D:\\Hack4Missions\\Urbana2018-Dataviz-Challenge\\outputs\\data\\mergedCleanData.csv'
+data_path = 'C:/Users/Sejin/PycharmProjects/kaggle-python36/venv/urbana2018/data/merged_people_groups_20181203-climate_vuln.csv'
 df = pd.read_csv(data_path, index_col=0)
 
-key = 'cv_Mortality_Climate_total_2030 (Number of People)'
+key = 'cv_Mortality_Carbon_total_2030 (Number of People)'
 
 df = df.dropna(subset=[key, 'Population'])
 countries = pd.read_csv('countries.csv')
@@ -144,16 +143,24 @@ for pg in pgs:
     for c, p in zip(col, patches):
         plt.setp(p, 'facecolor', cm(c))
 
+    matplotlib.font_manager.findSystemFonts(fontpaths=None, fontext='ttf')
+    thin = {'fontname': 'Montserrat'}
+    bold = {'fontname': 'Montserrat', 'fontweight': 'semibold'}
+
+
+    plt.rcParams['font.family'] = 'sans-serif'
+    plt.rcParams['font.sans-serif'] = 'Montserrat'
+
     plt.axvline(x=avg, color='r')
     plt.errorbar(x=avg, y=max(n), xerr=std, ecolor='r', capsize=10)
     plt.axvline(x=all_avg, color='k')
     plt.errorbar(x=all_avg, y=max(n), xerr=all_std, ecolor='k', capsize=10)
 
-    plt.title(pg)
-    plt.xlabel('2030 Climate Mortality Risk')
-    plt.ylabel('Population')
+    plt.title(pg, bold)
+    plt.xlabel('2030 Climate Mortality Risk', bold)
+    plt.ylabel('Population', bold)
 
     # plt.waitforbuttonpress()
-    fig.savefig('plots\\' + pg + '.png')
+    fig.savefig(pg + '.png')
     plt.close(fig)
 print('Done')
