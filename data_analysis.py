@@ -33,7 +33,7 @@ def normalize(df, feature_name):
 data_path = 'C:/Users/Sejin/PycharmProjects/kaggle-python36/venv/urbana2018/data/merged_people_groups_20181203-climate_vuln.csv'
 df = pd.read_csv(data_path, index_col=0)
 
-key = 'cv_Mortality_Carbon_total_2030 (Number of People)'
+key = 'cv_Mortality_Climate_total_2030 (Number of People)'
 
 df = df.dropna(subset=[key, 'Population'])
 countries = pd.read_csv('countries.csv')
@@ -43,6 +43,8 @@ mergedata[' PoplPeoples '] = [float(value.replace(',','')) for value in mergedat
 df['risk'] = df[key].values/mergedata[' PoplPeoples '].values
 df = normalize(df, 'risk')
 # df
+
+df.to_csv ('normClimateData.csv', sep=',')
 
 key = 'risk'
 
@@ -60,9 +62,17 @@ pgs.sort()
 cm = plt.cm.get_cmap('RdYlBu_r')
 all_avg, all_std = weighted_avg_and_std(df[key].values, df['Population'].values)
 
+matplotlib.font_manager._rebuild()
+matplotlib.font_manager.findSystemFonts(fontpaths=None, fontext='ttf')
+#names = [matplotlib.font_manager.FontProperties(fname=fname).get_name() for fname in flist]
+#print(names)  # names
+
+thin = {'fontname': 'Lato-Bold'}
+bold = {'fontname': 'Lato', 'fontweight': 'bold'}
+
 # numfigs = 146
 for pg in pgs:
-    # print(pg)
+    #print(pg)
     subdf = df.loc[df['PeopNameAcrossCountries'].str.contains(pg)]
     if subdf.shape[0] < 10:
         continue
@@ -81,13 +91,10 @@ for pg in pgs:
     for c, p in zip(col, patches):
         plt.setp(p, 'facecolor', cm(c))
 
-    matplotlib.font_manager.findSystemFonts(fontpaths=None, fontext='ttf')
-    thin = {'fontname': 'Montserrat'}
-    bold = {'fontname': 'Montserrat', 'fontweight': 'semibold'}
 
 
-    plt.rcParams['font.family'] = 'sans-serif'
-    plt.rcParams['font.sans-serif'] = 'Montserrat'
+    #plt.rcParams['font.family'] = 'sans-serif'
+    #plt.rcParams['font.sans-serif'] = 'Lato'
 
     plt.axvline(x=avg, color='r')
     plt.errorbar(x=avg, y=max(n), xerr=std, ecolor='r', capsize=10)
@@ -98,7 +105,7 @@ for pg in pgs:
     plt.xlabel('2030 Climate Mortality Risk', bold)
     plt.ylabel('Population', bold)
 
-    # plt.waitforbuttonpress()
+    #plt.waitforbuttonpress()
     fig.savefig(pg + '.png')
     plt.close(fig)
 print('Done')
