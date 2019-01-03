@@ -9,7 +9,7 @@ Data visualization is a general term that describes any effort to help people un
 	 - unreached (Y/N)
 	 - % adherents, % evangelicals
 	 - latitude, longitude
- 2. **DARA International Climate Vulnerability Monitor Data**: Countries and their level of risk / cost of mortality from carbon and climate change effects. Included levels from 2010 and projected levels for 2030.
+ 2. **DARA International Climate Vulnerability Monitor Data**: Countries and their cost of mortality / economy from carbon and climate change effects. Included levels from 2010 and projected levels for 2030.
 
 ## How we built it
  - **Tableau**: Interactive data visualization by overlaying variable layers on the world map. You can see how we compiled it in Tableau by downloading the file "Interactive Map - Data Visualization"
